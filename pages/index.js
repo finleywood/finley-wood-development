@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 export default function Home() {
   return (
     <div className="w-full h-max flex justify-center">
-      <div className='w-2/4 h-full flex flex-col justify-start pt-10'>
+      <div className='w-3/4 md:w-2/4 mb h-full flex flex-col justify-start pt-10'>
         <div className='w-full h-full flex flex-row justify-start items-center'>
           <Image blurDataURL='/profilepic_blurred.jpg' placeholder='blur' src="/profilepic.jpg" width={150} height={150} alt="Profile Picture" />
         </div>
