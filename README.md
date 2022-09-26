@@ -2,7 +2,7 @@
 
 Written in Javascript with Next.Js
 
-View @ finleywood.dev
+View @ [finleywood.dev](finleywood.dev)
 
 ## Getting Started
 
